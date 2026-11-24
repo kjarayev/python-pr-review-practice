@@ -1,3 +1,4 @@
+---
 name: ticket-fetcher
 description: Cleans up PR descriptions for the release notes pipeline. Use when PR descriptions reference GitHub issues or contain technical language that needs simplification.
 model: fast-mechanical-model
